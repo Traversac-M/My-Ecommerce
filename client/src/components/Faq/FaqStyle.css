@@ -1,0 +1,81 @@
+.faqIconSize .fa {
+	font-size: 45px;
+	color: black;
+}
+
+.faqIconSize .fa-facebook {
+  color: #3B5998;
+}
+
+.faqIconSize .fa-twitter {
+  color: #4099FF;
+}
+
+.faqIconSize .fa-instagram {
+  color: #d30ab6;
+}
+
+.btn-darkslateblue {
+	background: darkslateblue;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-darkslateblue:hover {
+	color: white;
+	font-weight: bold;
+}
+
+.faqHeader .faqTitle {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.faqTabsSection .faqText {
+	color: #8d97ad;
+}
+
+.faqTabsSection .nav {
+	border: none;
+}
+
+.faqTabsSection .nav-tabs .nav-item {
+	margin-bottom: 1rem;
+	width: 100%;
+}
+
+.faqTabsSection .card-img {
+	overflow: hidden;
+	border-radius: .25rem;
+	-webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
+	box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
+}
+
+.faqTabsSection .nav-tabs .nav-link {
+	display: flex;
+	color: #000000;
+	box-sizing: border-box;
+	background: #f4f8fa;
+	font-weight: 500;
+	padding: 1rem 1rem;
+	border-right: 1px solid #dee2e6;
+	border-top: 1px solid #dee2e6;
+	border-left: 1px solid #dee2e6;
+	margin: 0px;
+	border-radius: 0px !important;
+	border-bottom: 1px solid #dee2e6;
+	transition: all .3s;
+}
+
+.faqTabsSection .nav-tabs .nav-link:hover {
+	background-color: darkslateblue;
+	color: #ffffff;
+}
+
+.faqTabsSection .nav-tabs .nav-link.active {
+	background: darkslateblue;
+	font-weight: 500;
+	color: #ffffff;
+}

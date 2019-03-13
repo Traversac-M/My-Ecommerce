@@ -1,0 +1,16 @@
+.userInfoMain {
+  padding: 38px;
+  margin-top: -4%;
+}
+
+.userInfoMain .fa {
+  color: #1E90FF;
+}
+
+.userInfoFormSignin {
+  display:block;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0 0 3px 3px #888;
+  -webkit-box-shadow: 0 0 3px #888;
+  border-radius:2px;
+}

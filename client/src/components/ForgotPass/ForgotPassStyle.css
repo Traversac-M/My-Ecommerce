@@ -1,0 +1,36 @@
+.forgotPassImgSize {
+  border: 6px double #c7c3c3;
+  border-radius: 4px;
+  padding: 5px;
+  margin-top: 7px;
+  width: 150px;
+}
+
+.forgotPassSeparator {
+  content: '';
+  display: inline-block;
+  width: 56%;
+  margin-left: 21%;
+  height: 0;
+  margin-top: -5%;
+  border-top: 1px solid #c1c1c1;
+  line-height: inherit;
+  vertical-align: middle;
+}
+
+.forgotPassMain {
+  padding: 38px;
+  margin-top: -4%;
+}
+
+.forgotPassMain .fa {
+  color: #1E90FF;
+}
+
+.forgotPassFormSignin {
+  display:block;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0 0 3px 3px #888;
+  -webkit-box-shadow: 0 0 3px #888;
+  border-radius:2px;
+}

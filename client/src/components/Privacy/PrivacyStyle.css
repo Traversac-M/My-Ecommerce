@@ -1,0 +1,12 @@
+.privacyHeaderSize {
+  text-align: center;
+  font-size: 50px;
+  background: lightgrey;
+  color: white;
+}
+
+.privacyArticles {
+  font-weight: bold; 
+  font-size: 28px;
+  color: #000084;
+}

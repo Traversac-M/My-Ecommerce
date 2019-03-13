@@ -1,0 +1,45 @@
+.loginImgSize {
+  border: 6px double #c7c3c3;
+  border-radius: 4px;
+  padding: 5px;
+  margin-top: 7px;
+  width: 150px;
+  height: 150px;
+}
+
+.loginSocialBox {
+  margin-top: -2%;
+  margin-left: 9%;
+  font-size: 83%;
+  padding: 4%;
+  width: 83%;
+}
+
+.loginSeparator {
+  content: "";
+  display: inline-block;
+  width: 56%;
+  margin-left: 21%;
+  height: 0;
+  margin-top: -5%;
+  border-top: 1px solid #c1c1c1;
+  line-height: inherit;
+  vertical-align: middle;
+}
+
+.loginMain {
+  padding: 38px;
+  margin-top: -4%;
+}
+
+.loginMain .fa {
+  color: #1e90ff;
+}
+
+.loginFormSignin {
+  display: block;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0 0 3px 3px #888;
+  -webkit-box-shadow: 0 0 3px #888;
+  border-radius: 2px;
+}

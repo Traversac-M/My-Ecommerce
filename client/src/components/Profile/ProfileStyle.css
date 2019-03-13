@@ -1,0 +1,31 @@
+.profileSection {
+  background-color: #f4f8fa;
+}
+
+.profileSection a {
+  color: #000000
+}
+
+.profileSection a:hover {
+  text-decoration: none;
+}
+
+.profileWrapper .card-title {
+  font-size: 17.1px;
+}
+
+.profileSection .profileWrapper {
+  padding: 2.5rem 1rem;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  border: 1px solid #e5e5e5;
+}
+
+.profileSection .row-item:hover .profileWrapper {
+  background: linear-gradient(90deg, #efefef, #f4f8fa);
+  cursor: pointer;
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+  transition: all 0.3s;
+}

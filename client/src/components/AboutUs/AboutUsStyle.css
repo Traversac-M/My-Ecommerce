@@ -1,0 +1,131 @@
+.aboutUsTitle h1 {
+  color: #535353; 
+  font-size:45px;
+  font-weight:600;
+}
+
+.aboutUsTitle span {
+  color: #AF0808; 
+  font-size:45px;
+  font-weight:700;
+}
+
+.aboutUsTitle h3 {
+  color: #535353; 
+  font-size:23px;
+  margin-bottom:24px;
+}
+
+.aboutUsTitle p {
+  color: #7a7a7a;
+  line-height: 1.8;
+  margin: 0 0 15px;
+}
+
+.aboutUsImg {
+  padding-left: 57px;
+}
+
+/* Social Icons */
+
+.aboutUsIcons span{
+  margin-right: 15px; 
+  padding-right: 20px; 
+  font-size:35px;
+  color:#323232;
+}
+
+.aboutUsIcons li {
+  margin:0px;
+  padding:0;
+  display:inline-block;
+}
+
+.aboutUsIcons .fa-facebook:hover {
+  color: #3B5998;
+  transition:all .001s;
+}
+
+.aboutUsIcons .fa-twitter:hover {
+  color: #4099FF;
+  transition:all .001s;
+}
+
+.aboutUsIcons .fa-instagram:hover {
+  color: #d30ab6;
+  transition:all .001s;
+}
+
+.aboutUsIcons .fa-linkedin:hover {
+  color: #c5c5d5;
+  transition:all .001s;
+}
+.aboutUsRow{
+  display:-ms-flexbox;
+  display:-webkit-box;
+  display:flex;
+  -ms-flex-direction:row;
+  -webkit-box-orient:horizontal;
+  -webkit-box-direction:normal;
+  flex-direction:row;
+  -ms-flex-wrap:wrap;
+  flex-wrap:wrap;
+  -ms-flex-pack:center;
+  -webkit-box-pack:center;
+  justify-content:center;
+  -ms-flex-line-pack:center;
+  align-content:center;
+}
+
+.aboutUsSection {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f4f8fa;
+}
+.aboutUsSection .card {
+	border:none;
+	background: #f4f8fa;
+}
+.aboutUsSection .card-title {
+  font-size: 26px;
+  font-weight: bold;
+}
+.aboutUsSection .aboutUsIcon {
+  color: #8d97ad;
+}
+.aboutUsSection .aboutUsIcon:hover {
+  color: #188ef4 !important;
+}
+.aboutUsSection .aboutUsText {
+  margin: 1.5rem 0;
+  color: #8d97ad;
+}
+.aboutUsSection .aboutUsTitle {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.aboutUsSection .aboutUsSubtitle {
+  color: #8d97ad;
+}
+.aboutUsSection .fa {
+  font-size: 20px;
+}
+
+.aboutUsSection .aboutUsCardImg {
+  margin-bottom: 2rem;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 2rem auto;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.aboutUsSection .aboutUsImgIcon {
+  width: 100%;
+  height: auto;
+}
